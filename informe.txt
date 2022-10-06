@@ -1,0 +1,65 @@
+[*] Found 0 files with jpg extension 2022-07-28 17:42:20.808420 
+[*] Found 0 files with png extension 2022-07-28 17:42:20.865113 
+[*] Found 0 files with ico extension 2022-07-28 17:42:20.942183 
+[*] Found 0 files with gif extension 2022-07-28 17:42:20.973413 
+[*] Found 0 files with svg extension 2022-07-28 17:42:21.035353 
+[*] Found 0 files with jpeg extension 2022-07-28 17:42:21.081932 
+[*] Found 0 files with sql extension 2022-07-28 17:42:21.167816 
+[*] Found 0 files with exe extension 2022-07-28 17:42:21.214306 
+[*] Found 0 files with msi extension 2022-07-28 17:42:21.214790 
+[*] Found 0 files with pdf extension 2022-07-28 17:42:21.215116 
+[*] Found 0 files with xlsx extension 2022-07-28 17:42:21.215434 
+[*] Found 0 files with csv extension 2022-07-28 17:42:21.220837 
+[*] Found 0 files with rar extension 2022-07-28 17:42:21.267353 
+[*] Found 0 files with zip extension 2022-07-28 17:42:21.328995 
+[*] Found 0 files with gz extension 2022-07-28 17:42:21.416737 
+[*] Found 0 files with tar extension 2022-07-28 17:42:21.453213 
+[*] Found 0 files with docx extension 2022-07-28 17:42:21.530081 
+[*] Found 0 files with torrent extension 2022-07-28 17:42:21.566511 
+[*] Found 2 files with txt extension 2022-07-28 17:42:21.622499 
+[+] Making TEXT folder 2022-07-28 17:42:21.678757 
+[*] Found 0 files with ipynb extension 2022-07-28 17:42:21.761281 
+[*] Found 0 files with py extension 2022-07-28 17:42:21.761908 
+[*] Found 0 files with pptx extension 2022-07-28 17:42:21.772593 
+[*] Found 0 files with ppt extension 2022-07-28 17:42:21.808998 
+[*] Found 0 files with mp3 extension 2022-07-28 17:42:21.824966 
+[*] Found 0 files with wav extension 2022-07-28 17:42:21.825369 
+[*] Found 0 files with mp4 extension 2022-07-28 17:42:21.825729 
+[*] Found 0 files with m3u8 extension 2022-07-28 17:42:21.826127 
+[*] Found 0 files with webm extension 2022-07-28 17:42:21.826621 
+[*] Found 0 files with ts extension 2022-07-28 17:42:21.827093 
+[*] Found 0 files with json extension 2022-07-28 17:42:21.827599 
+[*] Found 0 files with css extension 2022-07-28 17:42:21.828012 
+[*] Found 0 files with js extension 2022-07-28 17:42:21.872859 
+[*] Found 0 files with html extension 2022-07-28 17:42:21.924590 
+[*] Found 0 files with apk extension 2022-07-28 17:42:21.925056 
+[*] Found 0 files with deb extension 2022-07-28 17:42:21.925362 
+[*] Found 0 files with sqlite3 extension 2022-07-28 17:42:21.925677 
+[-]No se encontro la llave de cifrado, generando llave 2022-07-30 17:58:43.456411 
+[+]Archivo </home/enac-ar-shm/Music/TEXT/texto.txt> encriptado 2022-07-30 17:58:59.269094 
+[*]Leyendo llave de cifrado 2022-07-30 17:59:16.829787 
+[*]Leyendo llave de cifrado 2022-07-30 17:59:41.508976 
+[*]Leyendo llave de cifrado 2022-07-30 18:00:05.384245 
+[+]Archivo </home/enac-ar-shm/Music/TEXT/texto.txt> desencriptado 2022-07-30 18:00:13.408990 
+('07/19/2022 :: 04:19:26', ' -->', 'CiscoPacketTracer_811_Ubuntu_64bit.deb') 2022-07-30 18:18:28.399216 
+('07/19/2022 :: 19:25:31', ' -->', 'script_conf.txt') 2022-07-30 18:18:28.445245 
+('07/21/2022 :: 14:32:46', ' -->', 'ProyectoFinal_U2_3TIIRDG1_gemaAnaSergio.pkt') 2022-07-30 18:18:28.476216 
+('07/22/2022 :: 02:44:49', ' -->', 'Red-Movil.pkt') 2022-07-30 18:18:28.476415 
+('07/27/2022 :: 22:47:30', ' -->', 'code_1.69.2-1658162013_amd64.deb') 2022-07-30 18:18:28.476507 
+('07/28/2022 :: 02:41:12', ' -->', 'Proyect_Integradora.zip') 2022-07-30 18:18:28.476591 
+('07/28/2022 :: 18:52:00', ' -->', 'Proyect_Integradorav2.zip') 2022-07-30 18:18:28.476672 
+('07/28/2022 :: 20:30:14', ' -->', 'Proyect_Integradorav3.zip') 2022-07-30 18:18:28.476752 
+('07/30/2022 :: 03:12:11', ' -->', 'prupuesta.pkt') 2022-07-30 18:18:28.476832 
+('07/30/2022 :: 03:58:12', ' -->', 'prupuestav2.pkt') 2022-07-30 18:18:28.476927 
+('07/30/2022 :: 03:58:22', ' -->', 'prupuestav3.pkt') 2022-07-30 18:18:28.477008 
+('07/30/2022 :: 23:04:38', ' -->', 'main.py') 2022-07-30 18:18:28.477087 
+[-]No se encontro la llave de cifrado, generando llave 2022-07-30 18:21:54.698063 
+[+]Archivo </home/enac-ar-shm/Pictures/sergio.txt> encriptado 2022-07-30 18:22:07.327388 
+[*]Leyendo llave de cifrado 2022-07-30 18:22:57.838488 
+[*]Leyendo llave de cifrado 2022-07-30 18:23:12.862454 
+[+]Archivo </home/enac-ar-shm/Pictures/sergio.txt> desencriptado 2022-07-30 18:23:25.906879 
+[-]No se encontro la llave de cifrado, generando llave 2022-07-30 18:24:22.488986 
+[*]Leyendo llave de cifrado 2022-07-30 18:24:29.884155 
+[*]Leyendo llave de cifrado 2022-07-30 18:26:56.059457 
+[*]Leyendo llave de cifrado 2022-07-30 18:27:31.872336 
+[+]Archivo </home/enac-ar-shm/Pictures/sergio.txt> encriptado 2022-07-30 18:27:47.465109 
